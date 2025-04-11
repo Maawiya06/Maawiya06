@@ -54,7 +54,10 @@ I blend engineering and coding to create impactful software solutions and analyz
 ![Operating System](https://img.shields.io/badge/Operating%20System-607D8B?style=for-the-badge&logo=linux&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0D47A1?style=for-the-badge&logo=cisco&logoColor=white)
 
-
+# 📊 GitHub Stats:
+[](https://github-readme-stats.vercel.app/api?username=MRcoder011&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MRcoder011&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRcoder011&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!---
