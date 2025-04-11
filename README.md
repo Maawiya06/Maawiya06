@@ -26,6 +26,7 @@ I blend engineering and coding to create impactful software solutions and analyz
 
 
 ## 🌐 Socials Media:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
 
 <!---
 Maawiya06/Maawiya06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
