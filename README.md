@@ -26,7 +26,10 @@ I blend engineering and coding to create impactful software solutions and analyz
 
 
 ## 🌐 Socials Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-maawiya-81345b299/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gn2490@myamu.ac.in) [![GFG](https://img.shields.io/badge/GFG-1F8ACB?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/maawiyaahjf9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-maawiya-81345b299/)             [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gn2490@myamu.ac.in)                                                        
+[![GFG](https://img.shields.io/badge/GFG-1F8ACB?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/maawiyaahjf9/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/maawiya9905/)
+
 
 
 <!---
