@@ -24,6 +24,9 @@ Problem solving, Java, Python, Operating Systems, Networking, Databases, and bui
 ⚡ Fun fact
 I blend engineering and coding to create impactful software solutions and analyze automobile systems using data analytics! 🚗📊
 
+
+## 🌐 Socials Media:
+
 <!---
 Maawiya06/Maawiya06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
