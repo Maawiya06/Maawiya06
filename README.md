@@ -58,7 +58,6 @@ I blend engineering and coding to create impactful software solutions and analyz
 
 
 # 📊 GitHub Stats:
-## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRcoder011&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 
