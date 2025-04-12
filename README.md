@@ -59,11 +59,12 @@ I blend engineering and coding to create impactful software solutions and analyz
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Maawiya06's%20GitHub%20Stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maawiya06&theme=chartreuse-dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maawiya06&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maawiya06&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=10&custom_title=Languages%20Used:%20C,%20C++,%20Python,%20Java,%20Spring%20Boot)
+
 
 
 
