@@ -30,29 +30,32 @@ I blend engineering and coding to create impactful software solutions and analyz
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swing](https://img.shields.io/badge/Swing-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-003366?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![System Design](https://img.shields.io/badge/System%20Design-3949AB?style=for-the-badge&logo=vercel&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%2300BFA6.svg?style=for-the-badge&logo=spaCy&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI%20Tools%20%26%20Techniques-%231E88E5.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![ANN](https://img.shields.io/badge/Artificial%20Neural%20Network-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E24AA?style=for-the-badge&logo=openCV&logoColor=white)
-
-![Operating System](https://img.shields.io/badge/Operating%20System-607D8B?style=for-the-badge&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Swing](https://img.shields.io/badge/Swing-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikit-learn&logoColor=orange) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-003366?style=for-the-badge&logo=tensorflow&logoColor=orange) 
+![System Design](https://img.shields.io/badge/System%20Design-3949AB?style=for-the-badge&logo=vercel&logoColor=white) 
+![NLP](https://img.shields.io/badge/NLP-%2300BFA6.svg?style=for-the-badge&logo=spaCy&logoColor=white) 
+![AI Tools](https://img.shields.io/badge/AI%20Tools%20%26%20Techniques-%231E88E5.svg?style=for-the-badge&logo=OpenAI&logoColor=white) 
+![ANN](https://img.shields.io/badge/Artificial%20Neural%20Network-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E24AA?style=for-the-badge&logo=openCV&logoColor=white)  
+![Operating System](https://img.shields.io/badge/Operating%20System-607D8B?style=for-the-badge&logo=linux&logoColor=white) 
 ![Networking](https://img.shields.io/badge/Networking-0D47A1?style=for-the-badge&logo=cisco&logoColor=white)
+
+
+
 
 # 📊 GitHub Stats:
 [](https://github-readme-stats.vercel.app/api?username=MRcoder011&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
