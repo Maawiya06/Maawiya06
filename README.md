@@ -59,21 +59,13 @@ I blend engineering and coding to create impactful software solutions.
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Maawiya06's%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maawiya06&theme=chartreuse-dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maawiya06&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=10&custom_title=Languages%20&%20Tech%20Used)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maawiya06&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=8)
 
-<!-- Highlighted languages & frameworks -->
-### Tech Stack
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 
 
