@@ -57,7 +57,7 @@ I blend engineering and coding to create impactful software solutions.
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maawiya06&theme=chartreuse-dark)
 
