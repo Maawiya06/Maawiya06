@@ -61,7 +61,8 @@ I blend engineering and coding to create impactful software solutions.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maawiya06&theme=chartreuse-dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maawiya06&layout=donut&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maawiya06&layout=compact&theme=chartreuse-dark)
+
 
 
 
