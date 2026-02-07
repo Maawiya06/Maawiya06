@@ -55,7 +55,7 @@ I blend engineering and coding to create impactful software solutions.
 ![Networking](https://img.shields.io/badge/Networking-0D47A1?style=for-the-badge&logo=cisco&logoColor=white)
 
 
-
+# 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
 
