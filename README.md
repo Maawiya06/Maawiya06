@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 I’m currently working on
-A college project focused on Flight Delay Prediction, combining machine learning and data analytics to solve real-world transportation challenges.
+A college project Code Editor Using Larger Language Model, combining LLM with Database where we design 100 to 200 prompt which help developer to solve complex problem.
 
 
 👥 I’m looking to collaborate on
