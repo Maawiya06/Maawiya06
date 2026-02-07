@@ -57,13 +57,7 @@ I blend engineering and coding to create impactful software solutions.
 
 
 
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show=reviews,prs_merged,issues_closed&rank_icon=percentile&custom_title=Maawiya06%20|%20GitHub%20Activity)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Maawiya06&theme=chartreuse-dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maawiya06&layout=donut&theme=chartreuse-dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maawiya06&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Maawiya06%20|%20GitHub%20Activity&cache_seconds=1800) ![GitHub Streak](https://streak-stats.demolab.com?user=Maawiya06&theme=chartreuse-dark&hide_border=false&cache_seconds=1800) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maawiya06&layout=donut&theme=chartreuse-dark&langs_count=8&cache_seconds=1800)
 
 
 
